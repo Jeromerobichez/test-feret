@@ -49,7 +49,7 @@ const handleSucrositeChange = (e) => {
     setPremierVin(false)
     setSecondVin(false)
   }
-  console.log("youhou color cest ", color)
+
   return (
     <div className="App">
       <h1
